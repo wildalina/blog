@@ -8,7 +8,7 @@ image = "web.jpg"
 description = "Beratung (  "
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-Webseiten, Foto- Videobearbeitung
+Webseiten erstellen und designen, Foto- Videobearbeitung, 
 
 
 
