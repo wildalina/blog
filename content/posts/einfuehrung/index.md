@@ -5,21 +5,13 @@ draft = false
 pinned = false
 tags = ["Sport", "Gesundheit", "Nahrungsergänzungmittel", "Startups", ""]
 image = "web.jpg"
-description = "Beratung (  "
+description = "Beratung für Startups im Bereich Supplements"
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-Webseiten erstellen und designen, Foto- Videobearbeitung, 
-
-
-
-Wir helfen Neueinsteiger Ihre Produkte richtig zu vermarkten. Wir spezialisieren uns auf Nahrungsergänzungsmittel, ihre Wirkungen und die Gesundheit der Konsumenten. Wir helfen den Unternehmern die Produkte richtig zu vermarkten, dazu gehört Webseiten erstellen, Foto- Videos machen und bearbeiten, Produkte und Webseite designen sowie die Produkte über die Sozialen Medien vermarkten.
+Wir helfen Neueinsteiger Ihre Produkte richtig zu vermarkten. Wir spezialisieren uns auf Nahrungsergänzungsmittel, ihre Wirkungen und die Gesundheit der Konsumenten. Wir helfen den Unternehmern die Produkte richtig zu vermarkten, dazu gehört Webseiten erstellen, Foto- Videos machen und bearbeiten, Produkte und Webseite designen sowie die Produkte über die Sozialen Medien vermarkten. Webseiten erstellen und designen, Foto- Videobearbeitung, 
 
 ## Bilder
 
-
-
 ![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](oip.jpg)
-
-
 
 - - -
