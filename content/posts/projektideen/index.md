@@ -1,7 +1,7 @@
 +++
 title = "Projektideen"
 date = "2020-09-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Projekt", ""]
 image = "size-512x288.jpg"
