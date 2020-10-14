@@ -1,7 +1,7 @@
 +++
 title = "Pläne realisieren "
 date = "2020-09-09"
-draft = true
+draft = false
 pinned = false
 tags = ["Webseiten", "Sportgeräte", "Interview"]
 image = "bild-projektideen.jpg"
