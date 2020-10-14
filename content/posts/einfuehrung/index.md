@@ -1,17 +1,17 @@
 +++
 title = " Blog Startups Supplements"
 date = "2020-08-12"
-draft = true
+draft = false
 pinned = false
-tags = ["Sport", "Gesundheit", "Nahrungsergänzungmittel", "Startups", ""]
+tags = ["Sport", "Gesundheit", "Nahrungsergänzungmittel", "Startups"]
 image = "web.jpg"
 description = "Beratung für Startups im Bereich Supplements"
-footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+footnotes = ""
 +++
-Wir helfen Neueinsteiger Ihre Produkte richtig zu vermarkten. Wir spezialisieren uns auf Nahrungsergänzungsmittel, ihre Wirkungen und die Gesundheit der Konsumenten. Wir helfen den Unternehmern die Produkte richtig zu vermarkten, dazu gehört Webseiten erstellen, Foto- Videos machen und bearbeiten, Produkte und Webseite designen sowie die Produkte über die Sozialen Medien vermarkten. Webseiten erstellen und designen, Foto- Videobearbeitung, 
+Unser Ziel ist es Neueinsteiger zu helfen Ihre Produkte richtig zu vermarkten. Wir spezialisieren uns auf Nahrungsergänzungsmittel, ihre Wirkungen und die Gesundheit der Konsumenten. Wir helfen den Unternehmern die Produkte richtig zu vermarkten, dazu gehört Webseiten erstellen, Foto- Videos machen und bearbeiten, Produkte und Webseite designen sowie die Produkte über die Sozialen Medien vermarkten. Bevor wir starten möchten wir die nächsten Wochen daran arbeiten Interviewfragen zu erstellen und die Leute auf der Strasse zu befragen. Ich denke es ist wichtig, das man die Meinung der Leute hört, um diese dann in der Umsetzung mit einzubauen.
 
 ## Bilder
 
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](oip.jpg)
+![](oip.jpg)
 
 - - -
