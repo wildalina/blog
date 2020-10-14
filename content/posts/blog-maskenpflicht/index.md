@@ -11,7 +11,7 @@ Heute haben wir ein anderes Thema behandelt, die Maskenpflicht. Wir haben uns In
 
 
 
-**Verschiedene interviewpartner**
+**Verschiedene Interviewpartner**
 
 Wir überlegten uns verschiedene Fragen zum Thema Maskenpflicht. Wir bereiteten drei Fragen vor und fragten zu erst zwei junge Mädchen. aus den Gespräch heraus konnten wir ausfindig machen dass sie in die 8. Klasse gehen. Sie berichteten, dass sie nur in der Kochschule die Maske tragen. und es sehr gewöhnungsbedürftig ist. Jedoch sei es schon nötig die Maske zu tragen.
 
