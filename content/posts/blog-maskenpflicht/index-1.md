@@ -1,7 +1,7 @@
 +++
 title = "Blog Maskenpflicht"
 date = "2020-10-14"
-draft = false
+draft = true
 pinned = false
 tags = ["Maskenpflicht", "corona", "Interview"]
 image = "maskenpflicht.png"
