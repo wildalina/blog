@@ -1,5 +1,23 @@
 # Changelog
 
+## Version 1.4.4 (2020-09-26)
+
+- Update Hugo to v0.75.1
+- Remove `disableFastRender` in the Hugo config.
+
+## Version 1.4.3 (2020-08-05)
+
+- Fix image urls in RSS and JSON Feeds.
+
+## Version 1.4.2 (2020-08-25)
+
+- CMS: Make E-Mail optional for author settings.
+
+## Version 1.4.1 (2020-08-12)
+
+- Change preview path to home URL. The slug does not work correctly with the new folder structure.
+- Use last italic <em> element in blockquotes for blockquote footer.
+
 ## Version 1.4.0 (2020-08-11)
 
 - BREAKING: Organize content in subfolders (keeps images together with content).
@@ -17,7 +35,7 @@
 
 ## Version 1.3.7 (2020-02-15)
 
-- Hugo's new Markdown library (Golmark) does not allow inline HTML by default. We turn this on with `unsafe = true`.
+- Hugo's new Markdown library (Goldmark) does not allow inline HTML by default. We turn this on with `unsafe = true`.
 
 ## Version 1.3.6 (2020-02-15)
 
