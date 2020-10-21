@@ -4,7 +4,7 @@ date = "2020-08-12"
 draft = false
 pinned = false
 tags = ["Sport", "Gesundheit", "Nahrungsergänzungmittel", "Startups"]
-image = "web.jpg"
+image = "schwarz-weiss-bild.jpg"
 description = "Erste Ideen sammeln und Pläne machen"
 footnotes = ""
 +++
