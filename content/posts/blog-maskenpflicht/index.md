@@ -1,5 +1,5 @@
 +++
-title = "Blog Maskenpflicht"
+title = "𝓑𝓵𝓸𝓰 𝓜𝓪𝓼𝓴𝓮𝓷𝓹𝓯𝓵𝓲𝓬𝓱𝓽"
 date = "2020-08-26"
 draft = false
 pinned = false
