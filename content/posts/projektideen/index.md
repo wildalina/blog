@@ -1,5 +1,5 @@
 +++
-title = "Projektideen"
+title = "𝓟𝓻𝓸𝓳𝓮𝓴𝓽𝓲𝓭𝓮𝓮𝓷"
 date = "2020-09-02"
 draft = false
 pinned = false
