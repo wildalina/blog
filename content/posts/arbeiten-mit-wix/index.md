@@ -1,5 +1,5 @@
 +++
-title = "Arbeiten mit WIX"
+title = "𝓐𝓻𝓫𝓮𝓲𝓽𝓮𝓷 𝓶𝓲𝓽 𝓦𝓘𝓧"
 date = "2020-11-18"
 draft = false
 pinned = false
