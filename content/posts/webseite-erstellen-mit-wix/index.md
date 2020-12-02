@@ -1,5 +1,5 @@
 +++
-title = "Webseite erstellen mit WIX"
+title = "𝓦𝓮𝓫𝓼𝓮𝓲𝓽𝓮 𝓮𝓻𝓼𝓽𝓮𝓵𝓵𝓮𝓷 𝓶𝓲𝓽 𝓦𝓘𝓧"
 date = "2020-10-21"
 draft = false
 pinned = false
