@@ -3,7 +3,7 @@ title = "𝓖𝓲𝓶𝓹 𝓕𝓸𝓽𝓸𝓫𝓮𝓪𝓻𝓫𝓮𝓲𝓽𝓾�
 date = "2020-12-09"
 draft = false
 pinned = false
-tags = ["Fotobearbeitung"]
+tags = ["Fotobearbeitung", "gimp", "photoshop"]
 image = "bild-09.12.jpg"
 description = "Erste Erfahrungen mit Gimp"
 +++
