@@ -1,5 +1,5 @@
 +++
-title = "Gimp Fotobearbeitung"
+title = "𝓖𝓲𝓶𝓹 𝓕𝓸𝓽𝓸𝓫𝓮𝓪𝓻𝓫𝓮𝓲𝓽𝓾𝓷𝓰"
 date = "2020-12-09"
 draft = false
 pinned = false
