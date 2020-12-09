@@ -4,7 +4,7 @@ date = "2020-08-26"
 draft = false
 pinned = false
 tags = ["Maskenpflicht", "corona", "Interview"]
-image = "maskenpflicht.png"
+image = "treppe12.jpg"
 description = "Interview mit Passanten über die Maskenpflicht."
 +++
 Heute haben wir ein anderes Thema behandelt, die Maskenpflicht. Wir haben uns Interviewfragen dazu überlegt und die Fragen schlussendlich den Passanten gestellt. Wir versuchten möglichst viele verschiedene Personen zu befragen. Das Thema Maskenpflicht haben wir gewählt weil es uns persönlich interessiert was die Menschen dazu so denken.
