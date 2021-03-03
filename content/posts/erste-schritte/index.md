@@ -1,5 +1,5 @@
 +++
-title = "Erste Schritte"
+title = "𝓔𝓻𝓼𝓽𝓮 𝓢𝓬𝓱𝓻𝓲𝓽𝓽𝓮"
 date = "2021-02-03"
 draft = false
 pinned = false
